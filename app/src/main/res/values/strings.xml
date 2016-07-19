@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scrooge McDuck Bank</string>
+    <string name="name">Scrooge McDuck Bank</string>
+    <string name="contentDesc">Scrooge McDuck Bank is an Duck owned multinational bank. The bank takes customers in adventures, Fight evil and gain some money in some mysterious way.</string>
+    <string name="phone">+(123)123-1234</string>
+    <string name="address">111 Duckworld, Texas</string>
+    <string name="website">www.ducktales.bank.co</string>
+</resources>
